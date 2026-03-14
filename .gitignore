@@ -1,3 +1,4 @@
 .env
-.virtual
-__pycache__
+virtual/
+venv/
+__pycache__/
